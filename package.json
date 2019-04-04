@@ -3,8 +3,8 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Jane Doe",
 	"main": "server.js",
-	"author": "yogeshwarp",
 	"scripts": {
 		"start": "node server.js"
 	},
